@@ -10,3 +10,4 @@
 - [class 6 notes](102/class6.md)
 - [class 7 notes](102/class7.md)
 - [class 8 notes](102/class8.md)
+- [class 9 notes](102/class9.md)
