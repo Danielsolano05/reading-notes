@@ -7,3 +7,5 @@ I am making my first reading-notes.
 - [class 4 notes](102/class4.md)
 - [class 5 notes](102/class5.md)
 - [class 6 notes](102/class6.md)
+- [class 7 notes](102/class7.md)
+- [class 8 notes](102/class8.md)
