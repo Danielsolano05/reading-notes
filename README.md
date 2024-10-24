@@ -12,6 +12,7 @@
 - [class 8 notes](102/class8.md)
 - [class 9 notes](102/class9.md)
 # reading notes 201
+- [class-01.md](class-01.md)
 - [class 1 notes](201/class1.md)
 - [class 2 notes](201/class2.md)
 - [class 3 notes](201/class3.md)
