@@ -65,3 +65,15 @@ work in and study. So it is fundamental for me to learn how to use HTML JavaScri
 
 <a href="[URL](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)">HTMI info and examples</a>
 
+
+Java script 
+
++ https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics General link for most of java script 
+
++ https://developer.mozilla.org/en-US/docs/Glossary/Variable- variables
+
+HTML 
+
++ https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element
+
+
