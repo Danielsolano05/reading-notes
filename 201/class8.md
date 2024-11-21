@@ -26,7 +26,7 @@ Or in much simpler termers it can only do one at a time not both because it is t
 - it connects with my long term goal because it is helping me get introduced to more useful items I could use to better my code. But in addition to this it is helping me get familiar with different programing witch will allow me to grow more and have a better understanding of more programming options that could be helpful or easier to use and mange. 
 
 
-links that helped for the reading in taking notes : 
+### links that helped for the reading in taking notes : 
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 
