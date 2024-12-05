@@ -22,4 +22,8 @@
 - [class 7 notes](201/class7.md)
 - [class 8 notes](201/class8.md)
 - [class 9 notes](201/class9.md)
+- [class 10 notes](201/class10.md)
+- [class 11 notes](201/class11.md)
+- [class 12 notes](201/class12.md)
+
 - [prompt-engineering](prompt-engineering.md)
