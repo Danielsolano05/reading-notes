@@ -39,15 +39,16 @@ Write a very short story where audio and video are characters.
 
 ### Besides making a site visually appealing across different screen sizes, why should developers make images responsive?
 
-- 
+- They should make them responsive because it allows form more people in different device to access the material allowing for more people to view the website making it more user accessible allowing people with different devices to access it. 
 
-### Define the following <img> attributes srcset and sizes. Write an example of how they are used.
+### Define the following img attributes srcset and sizes. Write an example of how they are used.
 
--
+- Srcset set of images allowed for the browse to choose form in addition to this its size is also chosen. each pair of images is separated with a comma. 
+- Size set of media condition that need to be met in order for a specific size of the images to be made certain criteria's need to be met in order for a image to be made that specific size. 
 
 ### How is srcset more helpful for responsive images than CSS or JavaScript?
 
--
+- it is more helpful then the others because it alredy chooses the best image for the port while the other ones you have to wait for the viewport to load. 
 
 
 links used during the reading 
