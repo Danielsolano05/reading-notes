@@ -3,6 +3,7 @@
 ## Local storage
 
 ### Why would a developer use local storage for a web application?
+- Because it allows fore date to be saved rather then to be lost one the website is closed making things more complected for the users. 
 
 ### What information should not be stored in local storage?
 - Information that should not be stored- Because it allows fore date to be saved rather then to be lost one the website is closed making things more complected for the users. 
