@@ -27,7 +27,8 @@
 - [class 12 notes](201/class12.md)
 - [class 13 notes](201/class13.md)
 - [class 14 notes](201/class14.md)
-
+# reading notes 301
+- [class -01 notes](301/class-01.md)
 
 
 - [prompt-engineering](prompt-engineering.md)
